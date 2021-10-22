@@ -42,7 +42,7 @@ const app = express();
 
 // server.listen(3000);
 
-const users = ['Tom', 'Andy', 'Jessica', 'Paul'];
+const users = ['Tom', 'Andy', 'Jessica', 'Paul', 'Codeit', 'Sally'];
 
 app.get('/', (request, response) => {
   response.end('<h1>Welcome!</h1>');
