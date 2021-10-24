@@ -1,4 +1,4 @@
-modeul.exports = {
+module.exports = {
   development: {
     username: "root",
     password: "0704",
